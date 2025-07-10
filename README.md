@@ -11,7 +11,7 @@
 <h3 align="center">ELECTRONICS SPECIALIZATION TASK</h3>
 
   <p align="center">
-    In this project, I used an STM32 microcontroller—specifically the Blue Pill (STM32F103C6T6)—as the main processing unit. The system captures the states of four push-buttons and transmits this data as a single byte over UART at a rate of 50 Hz (every 200 ms). The transmitted byte is then used to control the states of four corresponding LEDs. Additionally, a virtual terminal is connected to monitor the UART data in real time, allowing for easy debugging and verification of communication.
+    In this project, I used the STM32 Blue Pill (STM32F103C6T6) microcontroller to capture the states of four push-buttons and transmit their combined status as a single byte over UART at 50 Hz (every 200 ms). The received byte was then used to control four corresponding LEDs, with a virtual terminal connected for real-time data monitoring. Through this project, I gained hands-on experience with UART communication, GPIO handling, timer-based data transmission, and debugging using virtual tools. Additionally, I explored low-power modes (sleep and standby), learned the basics of RTOS (tasks and queues), and studied the role of the Memory Protection Unit (MPU) in embedded systems.
     <br />
     <a href="https://github.com/Ayush-iitbhu24/Embedded_System_Task"><strong>Explore the docs »</strong></a>
     <br />
