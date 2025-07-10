@@ -161,13 +161,9 @@ Ayush Soni - ayushsoni6745@gmail.com
 Project Link: [https://github.com/Ayush-iitbhu24/Embedded_System_Task](https://github.com/Ayush-iitbhu24/Embedded_System_Task)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ayush-soni-0a2a46312/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: screenshot.png
 [Proteus]: https://img.shields.io/badge/Proteus-.pdsprj-blue?logo=proteus&logoColor=white
 [Proteus-url]: https://www.labcenter.com/
 [CubeIDE]: https://img.shields.io/badge/STM32CubeIDE-.c%2F.h-red?logo=stmicroelectronics&logoColor=white
