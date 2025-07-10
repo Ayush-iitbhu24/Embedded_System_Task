@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Ayush-iitbhu24/Embedded_System_Task">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">ELECTRONICS SPECIALIZATION TASK</h3>
